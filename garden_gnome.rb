@@ -1,4 +1,4 @@
-class Garden Gnome
+class GardenGnome
   attr_reader :personality 
   attr_accessor :name, :age, :gluten_allergy
   
